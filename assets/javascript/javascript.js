@@ -1,6 +1,6 @@
 var gamesArray = ["Rainbow 6", 
     "Fallout 4",
-    "Dead by Daylight",
+    "Cuphead",
     "Portal 2",
     "Subnautica"];
 
