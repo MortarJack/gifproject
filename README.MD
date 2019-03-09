@@ -1,0 +1,1 @@
+Type in the search bar and press the "Submit" button and it will add another button to click on displaying gifs based on the text you entered.
